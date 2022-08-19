@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    background-color: #ede7b1;
+    color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 30pt;
+}
+
+#contenido {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15pt;
+}
+
+#contenido .personajes p{
+    text-align: justify;
+    font-size: 17pt;
+}
+
+#contenido .personajes h2{
+    font-size: 25pt;
+}
+
+#contenido .personajes h3{
+    font-size: 20pt;
+}
